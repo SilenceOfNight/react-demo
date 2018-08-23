@@ -1,0 +1,19 @@
+{
+  "editor.fontSize": 18,
+  "editor.formatOnSave": true,
+  "editor.tabSize": 2,
+  "files.autoSave": "afterDelay",
+  "files.autoSaveDelay": 300000,
+  "emmet.syntaxProfiles": {
+    "vue-html": "html",
+    "vue": "html"
+  },
+  "prettier.semi": false,
+  "prettier.singleQuote": true,
+  "editor.renderWhitespace": "all",
+  "gitlens.advanced.messages": {
+    "suppressShowKeyBindingsNotice": true
+  },
+  "workbench.colorTheme": "One Dark Pro",
+  "emmet.triggerExpansionOnTab": true
+}
